@@ -20,10 +20,10 @@ echo " $red
 
 echo "$yellow                +~+~+~+~+~+~+~+~+~+~+~+~+~ "
 echo " "
-echo "$green                   <--[Coded by N17R0]-->"
+echo "$green                   <--[Coded by RSecxXx@H4x0r.iD]-->"
 
 echo "$cyan                ************************** "
-echo "$green              <~~(YOUTUBE- Noob Hackers)~~>"
+echo "$green              <~~(YOUTUBE- INDOS666Gh0sT)~~>"
 echo " "
 echo "$yellow                +~+~+~+~+~+~+~+~+~+~+~+~+~ "
 sleep 3.50
