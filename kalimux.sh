@@ -1,4 +1,4 @@
-#kalimux by N17R0 (noob hackers)
+#kalimux by RSecxXx@H4x0r.iD (GrayHat Hackers)
 
 #colours
 cyan='\033[1;36m'
